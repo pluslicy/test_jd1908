@@ -2,5 +2,7 @@ hello this is my first code
 there is a world.java
 hello one
 <pom>
-	<plugins></plugins>
+	<plugins>
+		<plugin>servlet</plugin>
+	</plugins>
 </pom>
