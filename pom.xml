@@ -4,5 +4,6 @@ hello one
 <pom>
 	<plugins>
 		<plugin>servlet</plugin>
+		<plugin>spring</plugin>
 	</plugins>
 </pom>
